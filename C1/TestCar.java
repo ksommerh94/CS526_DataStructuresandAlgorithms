@@ -1,5 +1,4 @@
 package MyPrograms;
-import Car;
 
 public class TestCar {
 
