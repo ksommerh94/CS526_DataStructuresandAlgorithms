@@ -50,6 +50,7 @@ public class Hw2_p1 {
 			   br = new BufferedReader(new FileReader("car_input1.txt"));
 			// read the first line from the input file
 			// create an array of car Objects, carArray
+			   System.out.println(Integer.parseInt(br.readLine()));
 			   carArray=new Car[Integer.parseInt(br.readLine())];
 			   int i =0;
 			   while ((strCurrentLine = br.readLine()) != null) {
