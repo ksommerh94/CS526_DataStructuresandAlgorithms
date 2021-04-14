@@ -8,6 +8,7 @@ public class Hw1 {
 		// output: print index of the array where x is stored , if x is not, print "x does not exist"
 		// Method: Linear search if x is in a array
 
+		
 		boolean flag=false;
 		for(int i=0;i<a.length;i++) {
 			if(a[i]==x){
