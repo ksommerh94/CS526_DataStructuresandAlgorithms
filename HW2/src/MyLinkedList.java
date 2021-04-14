@@ -178,6 +178,7 @@ public class MyLinkedList<E> implements Cloneable {
     }
     return true;   // if we reach this, everything matched successfully
   }
+  
 
   @SuppressWarnings({"unchecked"})
   public MyLinkedList<E> clone() throws CloneNotSupportedException {
