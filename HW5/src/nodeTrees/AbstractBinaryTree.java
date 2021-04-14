@@ -36,7 +36,8 @@ import java.util.ArrayList;
  * @author Michael H. Goldwasser
  */
 public abstract class AbstractBinaryTree<E> extends AbstractTree<E>
-                                             implements BinaryTree<E> {
+      
+implements BinaryTree<E> {
 
   /**
    * Returns the Node of p's sibling (or null if no sibling exists).
