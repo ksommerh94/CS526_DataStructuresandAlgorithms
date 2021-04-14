@@ -10,6 +10,7 @@ public class Hw4_p3 {
 		//input: a --> array of integers  n --> integer position 
 		//output: does not return anything , it changes directly the array
 		 reverse(a,(a.length-n) , a.length -1);
+		 
 
 	}
 	
